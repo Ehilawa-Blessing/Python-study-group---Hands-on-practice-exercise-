@@ -173,7 +173,6 @@ Learn how to extract and manipulate text using indexing and slicing.
 
 ## Repository Structure
 
-Python-Study-Group/
 ```│
 ├── Lesson 1/
 ├── Lesson 2/
